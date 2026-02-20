@@ -3,8 +3,6 @@ This project was to deploy and in the process learn about the Suricata IDS softw
 
 Networking:
 
-  Subnets:
-
     Internal:
     192.168.10.0/24
     192.168.110.10
@@ -20,3 +18,5 @@ Networking:
     Kali Linux - 192.168.50.16
     Database Server - 192.168.110.10 (Not relevant for this project)
     Suricata IDS Server - 192.168.70.11 (For remote management)
+
+autoblocker.py is the script which filters and presents the Suricata Alerts in a clearer format
